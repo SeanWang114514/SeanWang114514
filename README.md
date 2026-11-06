@@ -2,13 +2,12 @@
 
 ### 一只AI农场主喵~
 
-- 🔭 I'm currently working on **Nowhere**
 
-- 🌱 I'm currently learning **LLm、DeepLearning、Python、C++**
+- 🌱 我最近在学 **LLm、DeepLearning、Python、C++**
 
-- ⚡ Fun fact **压根没系统学过编程**
+- ⚡ **其实我压根没系统学过编程（**
 
-- 👨‍💻 All of my projects are available at **[https://seanwang114514.github.io/Personal-blog/](https://seanwang114514.github.io/Personal-blog/)**
+- 👨‍💻 个人blog（已下线） **[https://seanwang114514.github.io/Personal-blog/](https://seanwang114514.github.io/Personal-blog/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
