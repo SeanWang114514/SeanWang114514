@@ -14,7 +14,7 @@
 
 ### 一只AI农场主喵~
 
-- 🌱 我最近在学 **LLM、DeepLearning、Python、C++**
+- 🌱 最近在学 **LLM、DeepLearning、Python、C++**
 
 - ⚡ **其实我压根没系统学过编程（**
 
